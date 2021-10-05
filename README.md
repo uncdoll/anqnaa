@@ -1,6 +1,6 @@
-### Olá!Eu sou o anqnaa o mais pica em progamação
+### Olá!Eu sou o Doll o mais pica em progamação
 
-- 🔭 Hoje atualmente trabalho no McDonalds
+- 🔭 Hoje atualmente trabalho no Casas Bahia
 - 🌱 Estudando Lua 
 - ⚡ Fato Curioso: Sou pica
 
