@@ -1,6 +1,6 @@
 ### Olá!Eu sou o Doll o mais pica em progamação
 
-- 🔭 Hoje atualmente trabalho no Casas Bahia
+- 🔭 Hoje atualmente trabalho na Casas Bahia
 - 🌱 Estudando Lua 
 - ⚡ Fato Curioso: Sou pica
 
